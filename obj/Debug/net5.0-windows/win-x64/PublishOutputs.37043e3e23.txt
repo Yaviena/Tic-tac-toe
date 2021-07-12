@@ -1,0 +1,2 @@
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Debug\net5.0-windows\win-x64\publish\TicTacToe_WPF.pdb
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Debug\net5.0-windows\win-x64\publish\TicTacToe_WPF.exe

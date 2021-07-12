@@ -1,0 +1,11 @@
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\TicTacToe_WPF.pdb
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\clrcompression.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\clrjit.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\coreclr.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\mscordaccore.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\D3DCompiler_47_cor3.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\PenImc_cor3.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\PresentationNative_cor3.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\vcruntime140_cor3.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\wpfgfx_cor3.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\TicTacToe_WPF.exe

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIykGMdSo0NuIMXynFyhIa5caPFh1cRETnV4IMSjFhfoH7TdUfq+OK4ZK6Vqg0IfHR/eefE6trc/6mg07OByrg==",
+  "success": true,
+  "projectFilePath": "E:\\PROGRAMMING\\C#\\PROGRAMS\\WINDOWS FORMS\\TicTacToe_WPF\\TicTacToe_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Modify\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.4\\microsoft.netcore.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\Modify\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\Modify\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

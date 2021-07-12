@@ -1,0 +1,5 @@
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\TicTacToe_WPF.exe
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\TicTacToe_WPF.dll
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\TicTacToe_WPF.deps.json
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\TicTacToe_WPF.runtimeconfig.json
+E:\PROGRAMMING\C#\PROGRAMS\WINDOWS FORMS\TicTacToe_WPF\bin\Release\netcoreapp3.1\publish\TicTacToe_WPF.pdb
